@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Mon Mar 16 10:19:16 EST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0170-e3ed-7c06-000000527630 
+on database directory /home/avbravo/Descargas/demo with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@f4221ebc 
+Loaded from file:/home/avbravo/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Eclipse OpenJ9
+java.runtime.version=11.0.6+10
+java.fullversion=11.0.6+10
+JRE 11 Linux amd64-64-Bit Compressed References 20200122_441 (JIT enabled, AOT enabled)
+OpenJ9   - 51a5857d2
+OMR      - 7a1b0239a
+JCL      - da35e0c380 based on jdk-11.0.6+10
+user.dir=/home/avbravo/NetBeansProjects/derby/myderby
+os.name=Linux
+os.arch=amd64
+os.version=5.3.0-40-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
